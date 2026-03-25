@@ -1,13 +1,2 @@
-from setuptools import setup, find_packages
-setup(
-    name="consumo-drogas-america-latina-prevalencia-edad-inicio-grupos-edad-2014-2024",
-    version="1.0.0",
-    description="Consumo de Drogas en América Latina: Prevalencia por País, Edad de Inicio y Grupos de Edad (2014-202",
-    author="de la Serna, Juan Moisés",
-    url="https://github.com/juanmoisesd/consumo-drogas-america-latina-prevalencia-edad-inicio-grupos-edad-2014-2024",
-    packages=find_packages(),
-    install_requires=["pandas>=1.3.0","requests>=2.26.0"],
-    python_requires=">=3.7",
-    classifiers=["Programming Language :: Python :: 3","License :: OSI Approved :: MIT License","Topic :: Scientific/Engineering"],
-    keywords="zenodo, open-data",
-)
+from setuptools import setup,find_packages
+setup(name="consumo-drogas-america-latina-prevalencia-edad-inicio-grupos-edad-2014-2024",version="1.0.0",description="Consumo de Drogas en América Latina: Prevalencia por País, Edad de Inicio y Grupos de Edad (2014-202",author="de la Serna, Juan Moisés",url="https://github.com/juanmoisesd/consumo-drogas-america-latina-prevalencia-edad-inicio-grupos-edad-2014-2024",packages=find_packages(),install_requires=["pandas>=1.3.0","requests>=2.26.0"],python_requires=">=3.7",classifiers=["Programming Language :: Python :: 3","License :: OSI Approved :: MIT License","Topic :: Scientific/Engineering"],keywords="zenodo, open-data, dataset")
