@@ -1,0 +1,26 @@
+{
+  "@context": "https://doi.org/10.5063/schema/codemeta-2.0",
+  "@type": "SoftwareSourceCode",
+  "name": "Consumo de Drogas en América Latina: Prevalencia por País, Edad de Inicio y Grupos de Edad (2014-202",
+  "version": "1.0.0",
+  "identifier": "https://github.com/juanmoisesd/consumo-drogas-america-latina-prevalencia-edad-inicio-grupos-edad-2014-2024",
+  "datePublished": "2025",
+  "license": "https://creativecommons.org/licenses/by/4.0/",
+  "codeRepository": "https://github.com/juanmoisesd/consumo-drogas-america-latina-prevalencia-edad-inicio-grupos-edad-2014-2024",
+  "author": [
+    {
+      "@type": "Person",
+      "givenName": "Juan Moisés",
+      "familyName": "de la Serna",
+      "affiliation": {
+        "@type": "Organization",
+        "name": "Universidad Internacional de La Rioja (UNIR)"
+      }
+    }
+  ],
+  "programmingLanguage": [
+    "Python",
+    "Jupyter Notebook"
+  ],
+  "keywords": ""
+}
